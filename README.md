@@ -2,7 +2,7 @@
 # Red Academy html quiz
 #### A HTML quiz for prospective Professional Web Development students in Toronto
 
-In this quiz, I attempted to re-create the mock-up of red-landing.jpg to test my ability in HTML and CSS. In the red academy repo, I was given a starter HTML file called `index.html` with some starter HTML components and a CSS stylesheet labeled `stylesheet.css`. I used this skeleteon outline to help me get started and built off of it based on what I learned from resources like freecodecamp, codecademy, google and others. 
+In this quiz, I attempted to re-create the mock-up of red-landing.jpg to test my ability in HTML and CSS. I was given a starter HTML file called with some starter HTML components and a CSS stylesheet. I used the skeleteon outline I was provided to help me pick off. I built off of it based on what I learned from resources like freecodecamp, codecademy, google and others. 
 
 ## Requirements
 The requirements of my project are outlined below:
