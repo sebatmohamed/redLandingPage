@@ -7,7 +7,7 @@ In this quiz, I attempted to re-create the mock-up of red-landing.jpg to test my
 ## Requirements
 The requirements of my project are outlined below:
 * Adequately reflect the designer’s vision for the website
-* Contain a single `.html` file and an external `.css` file (a CSS reset may be included separately)
+* Contain a single `.html` file and an external `.css` file with a CSS reset file included separately
 * [More on CSS Reset here](https://stackoverflow.com/questions/11578819/css-reset-what-exactly-does-it-do)
 
 ## Design Specifications 
