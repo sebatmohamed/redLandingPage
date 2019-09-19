@@ -2,14 +2,16 @@
 # Red Academy HTML quiz
 #### A HTML quiz for prospective Professional Web Development students in Toronto
 
-In this quiz, I attempted to re-create the mock-up of red-landing.jpg to test my ability in HTML and CSS. I was given a starter HTML file called with some starter HTML components and a CSS stylesheet. I used the skeleteon outline I was provided to help me pick off. I built off of it based on what I learned from resources like freecodecamp, codecademy, google and others. In this repo, you will find my index.html file, .css file, reset.css file. You will also find Git repository initialized in its root directory with an appropriately customized .gitignore file. 
+In this quiz, I attempted to re-create the mock-up of red-landing.jpg to test my ability in HTML and CSS. I was given a starter HTML file with some starter HTML components and a CSS stylesheet. I used the skeleteon outline I was provided in the starter HTML file to help me get on my feet. I built off of it based on what I learned from resources like freecodecamp, codecademy, google and others. 
+
+In this repo, you will find my index.html file, .css file, reset.css file. You will also find a Git repository initialized in its root directory with an appropriately customized .gitignore file. 
 
 ## Requirements
 The requirements of my project are outlined below:
 * Adequately reflect the designer’s vision for the website
 * Contain a single `.html` file and an external `.css` file with a CSS reset file included separately
 
-Using this [CSS Reset](https://stackoverflow.com/questions/11578819/css-reset-what-exactly-does-it-do) resource, I was able to implement this code into my reset.css file and then adjust my own code accordingly. 
+Using this [CSS Reset](https://stackoverflow.com/questions/11578819/css-reset-what-exactly-does-it-do) resource, I was able understand the purpose of this and implement the code into my reset.css file and then adjust my own code accordingly.  
 
 ## Design Specifications 
 I was given a list of specific instructions to follow when designing the website. The mock up red-landing page uses the font-family Roboto, which is a google font. I followed instructions on how to install and use this google font from this [website](http://www.cssnewbie.com/how-to-use-google-fonts-with-css-tutorial/#.WXitnIjyuiM)
