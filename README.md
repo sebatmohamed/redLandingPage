@@ -4,8 +4,6 @@
 
 In this quiz, I attempted to re-create the mock-up of red-landing.jpg to test my ability in HTML and CSS. I was given a starter HTML file called with some starter HTML components and a CSS stylesheet. I used the skeleteon outline I was provided to help me pick off. I built off of it based on what I learned from resources like freecodecamp, codecademy, google and others. In this repo, you will find my index.html file, .css file, reset.css file. You will also find Git repository initialized in its root directory with an appropriately customized .gitignore file. 
 
-You will find my external .css file and reset.css file linked in the <head> tag of my code in the index.html file. 
-
 ## Requirements
 The requirements of my project are outlined below:
 * Adequately reflect the designer’s vision for the website
@@ -28,4 +26,4 @@ I used Sublime text to write my code and HTML and CSS to recreate the red-landin
 ## Personal Learnings
 I gained a greater appreciation for websites, how they work and how they are created. I was able to solve several problems in a logical and creative way. For example, there were two ways that I could have written the code for the 'home about contact' section. Whether I wrote it as a text or unordered list, the common thing between the two was using the CSS property display: flex as I had to align it with the RED ACADEMY logo in the top left corner. Throughout this process, I had to learn how to think differently. It wasn't just about learning how to type lines of codes, but being able to see the larger picture and break it down in to smaller pieces in order to effectively solve the problem. I had to work backwards from a one page webiste to the code to recreate the designer's wishes. There were many times where my code would not work and I had to figure out why. Sometimes it was trivial as having an extra " where it shouldn't have been, or not including the proper CSS selector, or even not typing in the proper code. I love that process of experiementing and trial and error to come up with a solution that works. 
 
-As an individual with no background in coding, I was not sure what the purpose was of an external .css file or reset.css file. My initial code was not linked to an external .css or reset.css file. After googling and learning more about the purpose of these files, I realized what was required of me.  
+As an individual with no background in coding, I was not sure what the purpose was of an external .css file or reset.css file. My initial code was not linked to an external .css or reset.css file. After googling and learning more about the purpose of these files, I realized what was required of me. 
