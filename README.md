@@ -11,7 +11,7 @@ The requirements of my project are outlined below:
 * [More on CSS Reset here](https://stackoverflow.com/questions/11578819/css-reset-what-exactly-does-it-do)
 
 ## Design Specifications 
-I was given a list of specific instructions to follow when designing the website. The The mock up red-landing page uses the font-family Roboto, which is a google font. I followed instructions on how to install and use this google font from this [website](http://www.cssnewbie.com/how-to-use-google-fonts-with-css-tutorial/#.WXitnIjyuiM)
+I was given a list of specific instructions to follow when designing the website. The mock up red-landing page uses the font-family Roboto, which is a google font. I followed instructions on how to install and use this google font from this [website](http://www.cssnewbie.com/how-to-use-google-fonts-with-css-tutorial/#.WXitnIjyuiM)
 
 My design specifications are outlined below:
 * The mock up red-landing page uses three different font weights : 100, 300 and 900
