@@ -6,8 +6,8 @@ In this quiz I attempted to re-create the mock-up of red-landing.jpg to test my 
 
 ## Design Specifications 
 #### Typography:
-The entire site uses the font-family Roboto, which is a google font. You will find instructions on how to install and use a google font [here](http://www.cssnewbie.com/how-to-use-google-fonts-with-css-tutorial/#.WXitnIjyuiM)
-* The site uses three different font weights : 100, 300 and 900
+The entire site uses the font-family Roboto, which is a google font. I followed instructions on how to install and use a google font from this website (http://www.cssnewbie.com/how-to-use-google-fonts-with-css-tutorial/#.WXitnIjyuiM)
+* The mock up red-landing page uses three different font weights : 100, 300 and 900
 * Titles and headings use the color : #333333 
 * The banner uses the color : #FFFFFF
 * The content uses the color : #666666
@@ -20,7 +20,8 @@ The entire site uses the font-family Roboto, which is a google font. You will fi
 * Adequately reflect the designer’s vision for the website
 
 #### Strech goals 
-If you want to really impress, try some of these:
+As an ambitious individual, I attempted these stretch goals outlined below to impress my colleagues. All can be found in my repo titled redlandingpage.
+
 * Have a Git repository initialized in its root directory with an appropriately customized .gitignore file.
 * Be pushed to GitHub (with all of your commits synced to it) containing a README.md file describing the project (e.g. technologies used, personal learnings, etc.).
 * Have your site only using flex instead of floats or positioning. 
