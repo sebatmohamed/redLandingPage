@@ -20,7 +20,7 @@ My design specifications are outlined below:
 * The content uses the color : #666666
 
 ## Technologies Used
-
+I used Sublime text to write my code. 
 
 ## Personal Learnings
 
