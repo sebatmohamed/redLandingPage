@@ -2,7 +2,7 @@
 # Red Academy html quiz
 #### A HTML quiz for prospective Professional Web Development students in Toronto
 
-In this quiz you will be trying to re-create the mock-up of red-landing.jpg. This aim of this quiz is to test your ability in HTML, and CSS.
+In this quiz I attempted to re-create the mock-up of red-landing.jpg to test my ability in HTML and CSS. In the red academy repo, I was given a starter HTML file called `index.html` with some starter HTML components and a CSS stylesheet labeled `stylesheet.css`.
 
 ## Design Specifications 
 #### Typography:
@@ -13,7 +13,7 @@ The entire site uses the font-family Roboto, which is a google font. You will fi
 * The content uses the color : #666666
 
 ## Requirements
-#### Your project must:
+#### My project must:
 
 * Contain a single `.html` file and an external `.css` file (a CSS reset may be included separately)
 * [More on CSS Reset here](https://stackoverflow.com/questions/11578819/css-reset-what-exactly-does-it-do)
@@ -24,9 +24,6 @@ If you want to really impress, try some of these:
 * Have a Git repository initialized in its root directory with an appropriately customized .gitignore file.
 * Be pushed to GitHub (with all of your commits synced to it) containing a README.md file describing the project (e.g. technologies used, personal learnings, etc.).
 * Have your site only using flex instead of floats or positioning. 
-
-## Assets 
-In the repo you will find a starter HTML file called `index.html` with some starter HTML to make things a bit easier and a CSS stylesheet labeled `stylesheet.css`. These files have already been linked in the `index.html`. What you are trying to recreate is the file labeled `red-landing.jpg`.
 
 ## Resources 
 * [Starting with HTML 1](https://www.codecademy.com/courses/html-one-o-one/0/1)
