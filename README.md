@@ -8,7 +8,8 @@ In this quiz, I attempted to re-create the mock-up of red-landing.jpg to test my
 The requirements of my project are outlined below:
 * Adequately reflect the designer’s vision for the website
 * Contain a single `.html` file and an external `.css` file with a CSS reset file included separately
-* [More on CSS Reset here](https://stackoverflow.com/questions/11578819/css-reset-what-exactly-does-it-do)
+
+Using this [CSS Reset](https://stackoverflow.com/questions/11578819/css-reset-what-exactly-does-it-do) resource, I was able to implement this code into my reset.css file and then adjust my own code accordingly. 
 
 ## Design Specifications 
 I was given a list of specific instructions to follow when designing the website. The mock up red-landing page uses the font-family Roboto, which is a google font. I followed instructions on how to install and use this google font from this [website](http://www.cssnewbie.com/how-to-use-google-fonts-with-css-tutorial/#.WXitnIjyuiM)
