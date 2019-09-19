@@ -20,7 +20,7 @@ My design specifications are outlined below:
 * The content uses the color : #666666
 
 ## Technologies Used
-I used Sublime text to write my code. 
+I used Sublime text to write my code and HTML and CSS to recreate the red-landing.jpg.
 
 ## Personal Learnings
 I gained a greater appreciation for websites, how they work and how they are created. I was able to solve several problems in a logical and creative way. For example, there were two ways that I could have written the code for the 'home about contact' section. Whether I wrote it as a text or unordered list, the common thing between the two was using the CSS property display: flex as I had to align it with the RED ACADEMY logo in the top left corner.
