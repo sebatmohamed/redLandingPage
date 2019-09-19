@@ -2,7 +2,7 @@
 # Red Academy html quiz
 #### A HTML quiz for prospective Professional Web Development students in Toronto
 
-In this quiz, I attempted to re-create the mock-up of red-landing.jpg to test my ability in HTML and CSS. In the red academy repo, I was given a starter HTML file called `index.html` with some starter HTML components and a CSS stylesheet labeled `stylesheet.css`.
+In this quiz, I attempted to re-create the mock-up of red-landing.jpg to test my ability in HTML and CSS. In the red academy repo, I was given a starter HTML file called `index.html` with some starter HTML components and a CSS stylesheet labeled `stylesheet.css`. I used this skeleteon outline to help me get started and built off of it based on what I learned from resources like freecodecamp, codecademy, google and others. 
 
 ## Requirements
 The requirements of my project are outlined below:
@@ -19,9 +19,9 @@ My design specifications are outlined below:
 * The banner uses the color : #FFFFFF
 * The content uses the color : #666666
 
-#### Strech goals 
-As an ambitious individual, I attempted these stretch goals outlined below to impress my colleagues. All can be found in my repo titled redlandingpage.
+## Technologies Used
 
-* Have a Git repository initialized in its root directory with an appropriately customized .gitignore file.
-* Be pushed to GitHub (with all of your commits synced to it) containing a README.md file describing the project (e.g. technologies used, personal learnings, etc.).
-* Have your site only using flex instead of floats or positioning. 
+
+## Personal Learnings
+
+
