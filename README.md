@@ -6,7 +6,7 @@ In this quiz I attempted to re-create the mock-up of red-landing.jpg to test my 
 
 ## Design Specifications 
 #### Typography:
-The entire site uses the font-family Roboto, which is a google font. I followed instructions on how to install and use a google font from this [website] (http://www.cssnewbie.com/how-to-use-google-fonts-with-css-tutorial/#.WXitnIjyuiM)
+The entire site uses the font-family Roboto, which is a google font. I followed instructions on how to install and use a google font from this [website](http://www.cssnewbie.com/how-to-use-google-fonts-with-css-tutorial/#.WXitnIjyuiM)
 * The mock up red-landing page uses three different font weights : 100, 300 and 900
 * Titles and headings use the color : #333333 
 * The banner uses the color : #FFFFFF
